@@ -1,4 +1,10 @@
 [
-  {"name": "Imp Deck", "url": "https://scryfall.com/@r15ch13/decks/73f9d64a-e26d-4078-8836-599e2c66bbe8"},
-  {"name": "Feuerschaden Deck", "url": "https://scryfall.com/@r15ch13/decks/3a66fb65-3d4f-415a-9adc-83f1200849fa"}
+  {
+    "name": "Imp Deck",
+    "url": "https://scryfall.com/@r15ch13/decks/73f9d64a-e26d-4078-8836-599e2c66bbe8"
+  },
+  {
+    "name": "Feuerschaden Deck",
+    "url": "https://scryfall.com/@r15ch13/decks/3a66fb65-3d4f-415a-9adc-83f1200849fa"
+  }
 ]
