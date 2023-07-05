@@ -174,24 +174,24 @@
     "url": "https://scryfall.com/@Garrer/decks/762f5456-4320-418f-be35-7e4c7590d244",
     "color": "X"
   },
-    {
-    "name": "Elven",
+  {
+    "name": "Elfen",
     "url": "https://scryfall.com/@Garrer/decks/787c0827-ace0-42a6-9b63-8a64db44e5b1",
     "color": "G"
   },
-     {
+  {
     "name": "Enchantments",
     "url": "https://scryfall.com/@Garrer/decks/61867454-8b02-4174-8617-57185f3faada",
     "color": "RW"
   },
-      {
+  {
     "name": "Land Destruction",
     "url": "https://scryfall.com/@Garrer/decks/41513ca8-e62b-4503-8d30-4072310b32c1",
     "color": "RW"
   },
-      {
+  {
     "name": "Soldaten",
     "url": "https://scryfall.com/@Garrer/decks/f97ceacc-33a6-4673-8878-7e241bc821ef",
     "color": "W"
-  },
+  }
 ]
