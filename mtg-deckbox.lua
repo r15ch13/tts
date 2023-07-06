@@ -1,9 +1,13 @@
 DECKLIST_URI='https://raw.githubusercontent.com/r15ch13/tts/main/decks.json'
 CARDSYMBOL_URI='https://raw.githubusercontent.com/r15ch13/tts/main/card-symbols/'
-VERSION='2.0.0'
+VERSION='3.0.0'
 DEBUG=true
-
 local STANDARD_COLORS = {R='Red', G='Green', U='Blue', B='Black', W='White', X='Multi', C='Colorless'}
+
+---- This method has to be added to 'MTG Deck Loader' in order make this work!
+-- function onLoadDeckURLButtonExternal(pc)
+--     onLoadDeckURLButton(nil, pc, nil)
+-- end
 
 function onLoad()
     self.setName('MTG Deckbox')
@@ -26,7 +30,6 @@ function onLoad()
     end
 
     self.UI.setCustomAssets(assets)
-    drawUI()
     Wait.frames(function() fetchDecks() end, 2)
 end
 
@@ -36,10 +39,9 @@ function drawUI(deckTable)
             tag='Panel',
             attributes={
                 id='MTGDeckListe',
-                position='0 80 215',
-                rotation='180 180 0',
-                width=1400,
-                height=10
+                position='1120 -350 0',
+                width=2000,
+                height=1000
             },
             children={
                 {
@@ -62,10 +64,6 @@ function fetchDecks()
     WebRequest.get(DECKLIST_URI, self, 'createDeckButtons')
 end
 
----- This method has to be added to 'MTG Deck Loader' in order make this work!
--- function onLoadDeckURLButtonExternal(pc)
---     onLoadDeckURLButton(nil, pc, nil)
--- end
 
 function getMTGDeckLoaderGuid()
     for i, o in pairs(getObjects()) do
@@ -101,9 +99,7 @@ function createDeckButtons(response)
             preferredHeight=30
         }
     }
-
     for symbol,name in pairs(STANDARD_COLORS) do
-
         table.insert(header.children, {
             tag='Cell',
             children={
@@ -158,6 +154,7 @@ function createDeckButtons(response)
                                 text=deck['name'],
                                 fontSize=20,
                                 iconWidth=20,
+                                tooltip=deck['name'],
                                 textAlignment='MiddleLeft',
                                 id='deck-cell-'..i..'-'..deck['color'],
                                 url=deck['url'],
