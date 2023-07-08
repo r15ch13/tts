@@ -19,6 +19,11 @@
       "name": "Enchantments",
       "url": "https://scryfall.com/@Garrer/decks/61867454-8b02-4174-8617-57185f3faada",
       "color": "RW"
+    },
+    {
+      "name": "Drachen",
+      "url": "https://scryfall.com/@Garrer/decks/b32bdcb2-5c56-4777-afe2-81f91af2db87",
+      "color": "R"
     }
   ],
   "G": [
@@ -46,6 +51,11 @@
     {
       "name": "Worms Armageddon",
       "url": "https://scryfall.com/@Garrer/decks/4d3b1eb9-bb93-41c7-ac8f-da3d7475ef12",
+      "color": "G"
+    },
+    {
+      "name": "Katze",
+      "url": "https://scryfall.com/@Garrer/decks/57acdc91-79e5-4e3b-97b6-cbc19845d866",
       "color": "G"
     }
   ],
@@ -223,16 +233,6 @@
       "name": "Sliver",
       "url": "https://scryfall.com/@Garrer/decks/762f5456-4320-418f-be35-7e4c7590d244",
       "color": "X"
-    },
-    {
-      "name": "Katze",
-      "url": "https://scryfall.com/@Garrer/decks/57acdc91-79e5-4e3b-97b6-cbc19845d866",
-      "color": "G"
-    },
-    {
-      "name": "Drachen",
-      "url": "https://scryfall.com/@Garrer/decks/b32bdcb2-5c56-4777-afe2-81f91af2db87",
-      "color": "R"
     }
   ]
 }
