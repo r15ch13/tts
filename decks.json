@@ -28,7 +28,7 @@
   ],
   "G": [
     {
-      "name": "Spirits",
+      "name": "Spirits (Jun)",
       "url": "https://scryfall.com/@Garrer/decks/3ff5007f-8777-493a-9975-171bba913966",
       "color": "GW"
     },
@@ -162,11 +162,6 @@
       "name": "Draw Card",
       "url": "https://scryfall.com/@Garrer/decks/fa075cc7-8c77-4319-9dc0-3c9be524ef5e",
       "color": "B"
-    },
-     {
-      "name": "Discard (Fusy)",
-      "url": " https://deckstats.net/decks/187537/3098373-rat-discard",
-      "color": "B"
     }
   ],
   "W": [
@@ -186,7 +181,7 @@
       "color": "WB"
     },
     {
-      "name": "Engel",
+      "name": "Engel (Fusy)",
       "url": "https://scryfall.com/@Garrer/decks/498e4a2c-ccac-4325-abc1-347f485463eb",
       "color": "W"
     },
