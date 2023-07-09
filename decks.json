@@ -1,6 +1,11 @@
 {
   "R": [
     {
+      "name": "Verwirrung in den Rängen",
+      "url": "https://scryfall.com/@Garrer/decks/f86864b4-de42-4577-b438-1caee5de17b6",
+      "color": "R"
+    },
+    {
       "name": "Goblin",
       "url": "https://scryfall.com/@Garrer/decks/8883a34c-2064-4f1e-b957-80923f0b172a",
       "color": "R"
@@ -118,11 +123,6 @@
     }
   ],
   "B": [
-    {
-      "name": "Verwirrung in den Rängen",
-      "url": "https://scryfall.com/@Garrer/decks/f86864b4-de42-4577-b438-1caee5de17b6",
-      "color": "BR"
-    },
     {
       "name": "Imp",
       "url": "https://scryfall.com/@Garrer/decks/7461e3e2-b155-4bc8-aabd-78c8a555db3e",
