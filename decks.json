@@ -221,17 +221,6 @@
       "color": "W"
     }
   ],
-  "C": [
-    {
-      "name": "Ornithopter",
-      "url": "https://scryfall.com/@Garrer/decks/67197e0c-14c8-40e4-8867-0f99e19e5daa",
-      "color": "C"
-    },
-     {
-      "name": "Totem",
-      "url": "https://scryfall.com/@Garrer/decks/4e73c73c-bcbd-4ff3-b2e5-f511ff5331eb",
-      "color": "C"
-    }
   ],
   "X": [
     {
@@ -269,6 +258,16 @@
       "name": "Sliver",
       "url": "https://scryfall.com/@Garrer/decks/762f5456-4320-418f-be35-7e4c7590d244",
       "color": "X"
+    },
+    {
+      "name": "Ornithopter",
+      "url": "https://scryfall.com/@Garrer/decks/67197e0c-14c8-40e4-8867-0f99e19e5daa",
+      "color": "C"
+    },
+    {
+      "name": "Totem",
+      "url": "https://scryfall.com/@Garrer/decks/4e73c73c-bcbd-4ff3-b2e5-f511ff5331eb",
+      "color": "C"
     }
   ]
 }
