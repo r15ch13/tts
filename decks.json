@@ -1,22 +1,19 @@
 [
   {
     "name": "Red",
-    "symbol": "https://raw.githubusercontent.com/r15ch13/tts/main/card-symbols/R.png",
+    "color": "R",
     "decks": [
       {
         "name": "Verwirrung in den Rängen",
-        "url": "https://scryfall.com/@Garrer/decks/f86864b4-de42-4577-b438-1caee5de17b6",
-        "color": "R"
+        "url": "https://scryfall.com/@Garrer/decks/f86864b4-de42-4577-b438-1caee5de17b6"
       },
       {
         "name": "Goblin",
-        "url": "https://scryfall.com/@Garrer/decks/8883a34c-2064-4f1e-b957-80923f0b172a",
-        "color": "R"
+        "url": "https://scryfall.com/@Garrer/decks/8883a34c-2064-4f1e-b957-80923f0b172a"
       },
       {
         "name": "Direkt Schaden",
-        "url": "https://scryfall.com/@Garrer/decks/3ff8b430-42ee-48be-9978-ae8910254bd3",
-        "color": "R"
+        "url": "https://scryfall.com/@Garrer/decks/3ff8b430-42ee-48be-9978-ae8910254bd3"
       },
       {
         "name": "Astralrutsche",
@@ -30,34 +27,29 @@
       },
       {
         "name": "Drachen",
-        "url": "https://scryfall.com/@Garrer/decks/b32bdcb2-5c56-4777-afe2-81f91af2db87",
-        "color": "R"
+        "url": "https://scryfall.com/@Garrer/decks/b32bdcb2-5c56-4777-afe2-81f91af2db87"
       },
       {
         "name": "Landfall",
-        "url": "https://scryfall.com/@Garrer/decks/ee7109ff-e821-4444-bdee-a04618564a2d",
-        "color": "R"
+        "url": "https://scryfall.com/@Garrer/decks/ee7109ff-e821-4444-bdee-a04618564a2d"
       },
       {
         "name": "Morph",
-        "url": "https://scryfall.com/@Garrer/decks/3c2768fa-3a4c-4522-b7d6-9033b14cf1e9",
-        "color": "R"
+        "url": "https://scryfall.com/@Garrer/decks/3c2768fa-3a4c-4522-b7d6-9033b14cf1e9"
       },
       {
         "name": "Flashback",
-        "url": "https://scryfall.com/@Garrer/decks/1f09d335-7f44-48db-92d8-cd8fabe18fe1",
-        "color": "R"
+        "url": "https://scryfall.com/@Garrer/decks/1f09d335-7f44-48db-92d8-cd8fabe18fe1"
       },
       {
         "name": "Dice",
-        "url": "https://scryfall.com/@Garrer/decks/3c456d48-2f71-44b6-b92e-b8aac82e99a5",
-        "color": "R"
+        "url": "https://scryfall.com/@Garrer/decks/3c456d48-2f71-44b6-b92e-b8aac82e99a5"
       }
     ]
   },
   {
     "name": "Green",
-    "symbol": "https://raw.githubusercontent.com/r15ch13/tts/main/card-symbols/G.png",
+    "color": "G",
     "decks": [
       {
         "name": "Spirits (Jun)",
@@ -66,8 +58,7 @@
       },
       {
         "name": "Spinnen (Brani)",
-        "url": "https://scryfall.com/@Garrer/decks/d7dc1f60-c37d-4059-bd79-8362019be9b8",
-        "color": "G"
+        "url": "https://scryfall.com/@Garrer/decks/d7dc1f60-c37d-4059-bd79-8362019be9b8"
       },
       {
         "name": "Walls",
@@ -76,44 +67,37 @@
       },
       {
         "name": "Elfen",
-        "url": "https://scryfall.com/@Garrer/decks/787c0827-ace0-42a6-9b63-8a64db44e5b1",
-        "color": "G"
+        "url": "https://scryfall.com/@Garrer/decks/787c0827-ace0-42a6-9b63-8a64db44e5b1"
       },
       {
         "name": "Worms Armageddon",
-        "url": "https://scryfall.com/@Garrer/decks/4d3b1eb9-bb93-41c7-ac8f-da3d7475ef12",
-        "color": "G"
+        "url": "https://scryfall.com/@Garrer/decks/4d3b1eb9-bb93-41c7-ac8f-da3d7475ef12"
       },
       {
         "name": "Katze",
-        "url": "https://scryfall.com/@Garrer/decks/57acdc91-79e5-4e3b-97b6-cbc19845d866",
-        "color": "G"
+        "url": "https://scryfall.com/@Garrer/decks/57acdc91-79e5-4e3b-97b6-cbc19845d866"
       },
       {
         "name": "Token",
-        "url": "https://scryfall.com/@Garrer/decks/664e46f5-c8c0-42ed-8661-8d0c84978865",
-        "color": "G"
+        "url": "https://scryfall.com/@Garrer/decks/664e46f5-c8c0-42ed-8661-8d0c84978865"
       },
       {
         "name": "Spider new",
-        "url": "https://scryfall.com/@Garrer/decks/e1bd2746-3aa0-46df-a3b0-66050eea0bab",
-        "color": "G"
+        "url": "https://scryfall.com/@Garrer/decks/e1bd2746-3aa0-46df-a3b0-66050eea0bab"
       },
       {
         "name": "Provoke",
-        "url": "https://scryfall.com/@Garrer/decks/59cc016d-fb24-44bf-9965-245615700d2c",
-        "color": "G"
+        "url": "https://scryfall.com/@Garrer/decks/59cc016d-fb24-44bf-9965-245615700d2c"
       },
       {
         "name": "Wald Wald",
-        "url": "https://scryfall.com/@Garrer/decks/54865d31-2c7c-4040-9415-98cd71b05dd3",
-        "color": "G"
+        "url": "https://scryfall.com/@Garrer/decks/54865d31-2c7c-4040-9415-98cd71b05dd3"
       }
     ]
   },
   {
     "name": "Blue",
-    "symbol": "https://raw.githubusercontent.com/r15ch13/tts/main/card-symbols/U.png",
+    "color": "U",
     "decks":  [
       {
         "name": "EQ Deck",
@@ -122,8 +106,7 @@
       },
       {
         "name": "Golem",
-        "url": "https://scryfall.com/@Garrer/decks/1002e6ce-6d28-4560-a777-eee867adc6d0",
-        "color": "U"
+        "url": "https://scryfall.com/@Garrer/decks/1002e6ce-6d28-4560-a777-eee867adc6d0"
       },
       {
         "name": "Aggro Affinity",
@@ -137,8 +120,7 @@
       },
       {
         "name": "Engine Deck",
-        "url": "https://scryfall.com/@Garrer/decks/346b7b28-9c95-46e4-8522-6193b59e73b2",
-        "color": "U"
+        "url": "https://scryfall.com/@Garrer/decks/346b7b28-9c95-46e4-8522-6193b59e73b2"
       },
       {
         "name": "Shuffle",
@@ -157,13 +139,11 @@
       },
       {
         "name": "Dont Touch this",
-        "url": "https://scryfall.com/@Garrer/decks/1cfb99ef-c8a9-4bea-9484-44f629f76646",
-        "color": "U"
+        "url": "https://scryfall.com/@Garrer/decks/1cfb99ef-c8a9-4bea-9484-44f629f76646"
       },
       {
         "name": "Exile it",
-        "url": "https://scryfall.com/@Garrer/decks/60549011-b245-4639-96e9-c99a0144ce6a",
-        "color": "U"
+        "url": "https://scryfall.com/@Garrer/decks/60549011-b245-4639-96e9-c99a0144ce6a"
       },
       {
         "name": "Recall",
@@ -172,85 +152,71 @@
       },
       {
         "name": "Clone",
-        "url": "https://scryfall.com/@Garrer/decks/9e9a7c52-649f-4bb1-ba69-af51c7de68c2",
-        "color": "U"
+        "url": "https://scryfall.com/@Garrer/decks/9e9a7c52-649f-4bb1-ba69-af51c7de68c2"
       },
       {
         "name": "Neugier",
-        "url": "https://scryfall.com/@Garrer/decks/9c5fa3e6-00b7-445a-a3fa-e61e0ec7d8ee",
-        "color": "U"
+        "url": "https://scryfall.com/@Garrer/decks/9c5fa3e6-00b7-445a-a3fa-e61e0ec7d8ee"
       }
     ]
   },
   {
     "name": "Black",
-    "symbol": "https://raw.githubusercontent.com/r15ch13/tts/main/card-symbols/B.png",
+    "color": "B",
     "decks": [
       {
         "name": "Imp",
-        "url": "https://scryfall.com/@Garrer/decks/7461e3e2-b155-4bc8-aabd-78c8a555db3e",
-        "color": "B"
+        "url": "https://scryfall.com/@Garrer/decks/7461e3e2-b155-4bc8-aabd-78c8a555db3e"
       },
       {
         "name": "Sacrifice",
-        "url": "https://scryfall.com/@Garrer/decks/fdda819c-ab8d-4086-85b9-5ee443bee8aa",
-        "color": "B"
+        "url": "https://scryfall.com/@Garrer/decks/fdda819c-ab8d-4086-85b9-5ee443bee8aa"
       },
       {
         "name": "Discard",
-        "url": "https://scryfall.com/@Garrer/decks/783e4b22-84d8-4c7c-85ed-0e90a49c4438",
-        "color": "B"
+        "url": "https://scryfall.com/@Garrer/decks/783e4b22-84d8-4c7c-85ed-0e90a49c4438"
       },
       {
         "name": "Lose Life",
-        "url": "https://scryfall.com/@Garrer/decks/4a923848-4edc-403d-b0e5-a82ad489c886",
-        "color": "B"
+        "url": "https://scryfall.com/@Garrer/decks/4a923848-4edc-403d-b0e5-a82ad489c886"
       },
       {
         "name": "Ratten",
-        "url": "https://scryfall.com/@Garrer/decks/62c97541-08bf-4bd7-9dae-41ffa5e53009",
-        "color": "B"
+        "url": "https://scryfall.com/@Garrer/decks/62c97541-08bf-4bd7-9dae-41ffa5e53009"
       },
       {
         "name": "Chamber",
-        "url": "https://scryfall.com/@Garrer/decks/5d66d5e1-f051-4b93-a2a1-9cb770bb919f",
-        "color": "B"
+        "url": "https://scryfall.com/@Garrer/decks/5d66d5e1-f051-4b93-a2a1-9cb770bb919f"
       },
       {
         "name": "Zombie",
-        "url": "https://scryfall.com/@Garrer/decks/568cca5c-ad89-4718-a71d-72ec58d3823e",
-        "color": "B"
+        "url": "https://scryfall.com/@Garrer/decks/568cca5c-ad89-4718-a71d-72ec58d3823e"
       },
       {
         "name": "Skelette",
-        "url": "https://scryfall.com/@Garrer/decks/b48ac337-d87c-4108-84d7-5f4e1913e352",
-        "color": "B"
+        "url": "https://scryfall.com/@Garrer/decks/b48ac337-d87c-4108-84d7-5f4e1913e352"
       },
       {
         "name": "Draw Card",
-        "url": "https://scryfall.com/@Garrer/decks/fa075cc7-8c77-4319-9dc0-3c9be524ef5e",
-        "color": "B"
+        "url": "https://scryfall.com/@Garrer/decks/fa075cc7-8c77-4319-9dc0-3c9be524ef5e"
       },
       {
         "name": "Life Change",
-        "url": "https://scryfall.com/@Garrer/decks/74b96b4a-92f5-4d3e-841a-8f7f624e2dad",
-        "color": "B"
+        "url": "https://scryfall.com/@Garrer/decks/74b96b4a-92f5-4d3e-841a-8f7f624e2dad"
       },
       {
         "name": "Nicht Spielbar",
-        "url": "https://scryfall.com/@Garrer/decks/67df3ec5-3aa3-4521-ae01-01d9b27c6b84",
-        "color": "B"
+        "url": "https://scryfall.com/@Garrer/decks/67df3ec5-3aa3-4521-ae01-01d9b27c6b84"
       },
       {
         "name": "Food",
-        "url": "https://scryfall.com/@Garrer/decks/9d7924a6-6d8f-4c84-88dd-18485c885b81",
-        "color": "B"
+        "url": "https://scryfall.com/@Garrer/decks/9d7924a6-6d8f-4c84-88dd-18485c885b81"
       }
     ]
   },
   {
     "name": "White",
-    "symbol": "https://raw.githubusercontent.com/r15ch13/tts/main/card-symbols/W.png",
+    "color": "W",
     "decks": [
       {
         "name": "Millen",
@@ -259,8 +225,7 @@
       },
       {
         "name": "Heal",
-        "url": "https://scryfall.com/@Garrer/decks/18eab583-c76f-4370-97ce-bfcbe7a5817e",
-        "color": "W"
+        "url": "https://scryfall.com/@Garrer/decks/18eab583-c76f-4370-97ce-bfcbe7a5817e"
       },
       {
         "name": "Kleriker",
@@ -269,8 +234,7 @@
       },
       {
         "name": "Engel (Fusy)",
-        "url": "https://scryfall.com/@Garrer/decks/498e4a2c-ccac-4325-abc1-347f485463eb",
-        "color": "W"
+        "url": "https://scryfall.com/@Garrer/decks/498e4a2c-ccac-4325-abc1-347f485463eb"
       },
       {
         "name": "Mishras",
@@ -284,85 +248,69 @@
       },
       {
         "name": "Soldaten",
-        "url": "https://scryfall.com/@Garrer/decks/f97ceacc-33a6-4673-8878-7e241bc821ef",
-        "color": "W"
+        "url": "https://scryfall.com/@Garrer/decks/f97ceacc-33a6-4673-8878-7e241bc821ef"
       },
       {
         "name": "Dogs",
-        "url": "https://scryfall.com/@Garrer/decks/ccabf822-2667-4910-88f0-af9033e7980a",
-        "color": "W"
+        "url": "https://scryfall.com/@Garrer/decks/ccabf822-2667-4910-88f0-af9033e7980a"
       },
       {
         "name": "Rebellion",
-        "url": "https://scryfall.com/@Garrer/decks/d8d9d867-88b2-4710-8966-4699c2410ebc",
-        "color": "W"
+        "url": "https://scryfall.com/@Garrer/decks/d8d9d867-88b2-4710-8966-4699c2410ebc"
       },
       {
         "name": "Prevent",
-        "url": "https://scryfall.com/@Garrer/decks/9e8e1574-d70f-4b8d-8e7d-91ccf2aedfaf",
-        "color": "W"
+        "url": "https://scryfall.com/@Garrer/decks/9e8e1574-d70f-4b8d-8e7d-91ccf2aedfaf"
       }
     ]
   },
   {
     "name": "Multi",
-    "symbol": "https://raw.githubusercontent.com/r15ch13/tts/main/card-symbols/X.png",
+    "color": "X",
     "decks":  [
       {
         "name": "Ravager",
-        "url": "https://scryfall.com/@Garrer/decks/452eef63-40a7-4698-b7f4-5f841e4d33fb",
-        "color": "X"
+        "url": "https://scryfall.com/@Garrer/decks/452eef63-40a7-4698-b7f4-5f841e4d33fb"
       },
       {
         "name": "Myrs",
-        "url": "https://scryfall.com/@Garrer/decks/d5331260-8c4d-4f69-b024-e97002fe38e0",
-        "color": "X"
+        "url": "https://scryfall.com/@Garrer/decks/d5331260-8c4d-4f69-b024-e97002fe38e0"
       },
       {
         "name": "Cycling",
-        "url": "https://scryfall.com/@Garrer/decks/38769569-f3a0-4b3a-8b15-b2951a6c0bb4",
-        "color": "X"
+        "url": "https://scryfall.com/@Garrer/decks/38769569-f3a0-4b3a-8b15-b2951a6c0bb4"
       },
-
       {
         "name": "Fun Deck",
-        "url": "https://scryfall.com/@Garrer/decks/395a6a05-1cc2-47bd-a52c-004132e7902f",
-        "color": "X"
+        "url": "https://scryfall.com/@Garrer/decks/395a6a05-1cc2-47bd-a52c-004132e7902f"
       },
       {
         "name": "Donate",
-        "url": "https://scryfall.com/@Garrer/decks/05c5c769-b618-4617-86ef-c5699311e9a5",
-        "color": "X"
+        "url": "https://scryfall.com/@Garrer/decks/05c5c769-b618-4617-86ef-c5699311e9a5"
       },
       {
         "name": "Mana",
-        "url": "https://scryfall.com/@Garrer/decks/41513ca8-e62b-4503-8d30-4072310b32c1",
-        "color": "X"
+        "url": "https://scryfall.com/@Garrer/decks/41513ca8-e62b-4503-8d30-4072310b32c1"
       },
       {
         "name": "Sliver",
-        "url": "https://scryfall.com/@Garrer/decks/762f5456-4320-418f-be35-7e4c7590d244",
-        "color": "X"
+        "url": "https://scryfall.com/@Garrer/decks/762f5456-4320-418f-be35-7e4c7590d244"
       },
       {
         "name": "Ornithopter",
-        "url": "https://scryfall.com/@Garrer/decks/67197e0c-14c8-40e4-8867-0f99e19e5daa",
-        "color": "X"
+        "url": "https://scryfall.com/@Garrer/decks/67197e0c-14c8-40e4-8867-0f99e19e5daa"
       },
       {
         "name": "Totem",
-        "url": "https://scryfall.com/@Garrer/decks/4e73c73c-bcbd-4ff3-b2e5-f511ff5331eb",
-        "color": "X"
+        "url": "https://scryfall.com/@Garrer/decks/4e73c73c-bcbd-4ff3-b2e5-f511ff5331eb"
       },
       {
         "name": "Länder",
-        "url": "https://scryfall.com/@Garrer/decks/6274502a-a503-4705-bcab-f1338b2b1f45",
-        "color": "X"
+        "url": "https://scryfall.com/@Garrer/decks/6274502a-a503-4705-bcab-f1338b2b1f45"
       },
       {
         "name": "Charge",
-        "url": "https://scryfall.com/@Garrer/decks/384dcd11-d967-4b12-8ccc-64bbf9e1781b",
-        "color": "X"
+        "url": "https://scryfall.com/@Garrer/decks/384dcd11-d967-4b12-8ccc-64bbf9e1781b"
       }
     ]
   }
