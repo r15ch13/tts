@@ -18,12 +18,12 @@
       {
         "name": "Astralrutsche",
         "url": "https://scryfall.com/@Garrer/decks/dd36ae06-217b-426f-8366-ed35047ba955",
-        "color": "RW"
+        "color": "RW",
       },
       {
         "name": "Enchantments",
         "url": "https://scryfall.com/@Garrer/decks/61867454-8b02-4174-8617-57185f3faada",
-        "color": "RW"
+        "color": "RW",
       },
       {
         "name": "Drachen",
@@ -54,7 +54,7 @@
       {
         "name": "Spirits (Jun)",
         "url": "https://scryfall.com/@Garrer/decks/3ff5007f-8777-493a-9975-171bba913966",
-        "color": "GW"
+        "color": "GW",
       },
       {
         "name": "Spinnen (Brani)",
@@ -63,7 +63,7 @@
       {
         "name": "Walls",
         "url": "https://scryfall.com/@Garrer/decks/fe77c6fb-4f26-4d36-a6cd-a4b316d2afbe",
-        "color": "GW"
+        "color": "GW",
       },
       {
         "name": "Elfen",
@@ -106,7 +106,7 @@
       {
         "name": "EQ Deck",
         "url": "https://scryfall.com/@Garrer/decks/4343e23e-d0ba-4288-ab2a-697c033d0651",
-        "color": "UB"
+        "color": "UB",
       },
       {
         "name": "Golem",
@@ -115,12 +115,12 @@
       {
         "name": "Aggro Affinity",
         "url": "https://scryfall.com/@Garrer/decks/ee24207a-1f23-40d9-a42e-94732f3a75b8",
-        "color": "UB"
+        "color": "UB",
       },
       {
         "name": "Coin Flip",
         "url": "https://scryfall.com/@Garrer/decks/9c0bcd01-a7e8-4e0d-a96a-319c4314842d",
-        "color": "UR"
+        "color": "UR",
       },
       {
         "name": "Engine Deck",
@@ -129,17 +129,17 @@
       {
         "name": "Shuffle",
         "url": "https://scryfall.com/@Garrer/decks/8c8f5299-db0c-469a-bb50-64fddc2b73db",
-        "color": "UR"
+        "color": "UR",
       },
       {
         "name": "Du Tapst",
         "url": "https://scryfall.com/@Garrer/decks/dbb67353-5e78-44b0-847e-3658524ecd3a",
-        "color": "UB"
+        "color": "UB",
       },
       {
         "name": "Extra Turn",
         "url": "https://scryfall.com/@Garrer/decks/b1a775ea-becd-4cda-8a4d-d75b8206e25d",
-        "color": "UB"
+        "color": "UB",
       },
       {
         "name": "Dont Touch this",
@@ -152,7 +152,7 @@
       {
         "name": "Recall",
         "url": "https://scryfall.com/@Garrer/decks/f7284abc-e5ce-458a-97c8-c1a7a9ee8ba6",
-        "color": "UR"
+        "color": "UR",
       },
       {
         "name": "Clone",
@@ -225,7 +225,7 @@
       {
         "name": "Millen",
         "url": "https://scryfall.com/@Garrer/decks/c14fc23e-6bb9-4e37-b38e-0ef98fa199e8",
-        "color": "WU"
+        "color": "WU",
       },
       {
         "name": "Heal",
@@ -234,7 +234,7 @@
       {
         "name": "Kleriker",
         "url": "https://scryfall.com/@Garrer/decks/1edba29e-b008-4d9a-a9d2-9da6db17dc87",
-        "color": "WB"
+        "color": "WB",
       },
       {
         "name": "Engel (Fusy)",
@@ -243,12 +243,12 @@
       {
         "name": "Mishras",
         "url": "https://scryfall.com/@Garrer/decks/e7be71fd-d5ae-4abc-8067-292f8bd06e5d",
-        "color": "WU"
+        "color": "WU",
       },
       {
         "name": "Color Change",
         "url": "https://scryfall.com/@Garrer/decks/d79a5d76-8c01-4537-a762-67fbff4840bb",
-        "color": "WU"
+        "color": "WU",
       },
       {
         "name": "Soldaten",
@@ -269,7 +269,7 @@
       {
         "name": "Verflucht",
         "url": "https://scryfall.com/@Garrer/decks/15c0945a-364b-46c3-a79f-4831199c983b",
-        "color": "WB"
+        "color": "WB",
       }
     ]
   },
