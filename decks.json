@@ -44,13 +44,7 @@
       {
         "name": "Dice",
         "url": "https://scryfall.com/@Garrer/decks/3c456d48-2f71-44b6-b92e-b8aac82e99a5"
-      },
-       {
-        "name": "Underworld",
-        "url": "https://scryfall.com/@Garrer/decks/9d39bb06-6383-4faa-ba57-d8d91eacf2ec",
-        "color": "RB"
       }
-      
     ]
   },
   {
@@ -226,6 +220,11 @@
       {
         "name": "Food",
         "url": "https://scryfall.com/@Garrer/decks/9d7924a6-6d8f-4c84-88dd-18485c885b81"
+      },
+       {
+        "name": "Underworld",
+        "url": "https://scryfall.com/@Garrer/decks/9d39bb06-6383-4faa-ba57-d8d91eacf2ec",
+        "color": "RB"
       }
     ]
   },
