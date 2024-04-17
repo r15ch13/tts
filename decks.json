@@ -179,12 +179,7 @@
         "name": "Tap Dmg",
         "url": "https://scryfall.com/@Garrer/decks/9c353dcf-20bc-491e-8c84-677f226f292d",
         "color":"U"
-       },
-      {
-        "name": "Open the graves",
-        "url": "https://scryfall.com/@Garrer/decks/06afa054-9ec9-4f55-8f67-4bed81383fee",
-        "color": "UB"
-      }
+       }
     ]
   },
   {
@@ -252,6 +247,11 @@
       {
         "name": "Madness",
         "url": "https://scryfall.com/@Garrer/decks/e46b8a41-5cd0-42c6-a460-92897b7c1292",
+        "color": "B"
+      },
+       {
+        "name": "Open the graves",
+        "url": "https://scryfall.com/@Garrer/decks/06afa054-9ec9-4f55-8f67-4bed81383fee",
         "color": "B"
       }
     ]
