@@ -64,11 +64,6 @@
     "color": "G",
     "decks": [
       {
-        "name": "Spirits (Jun)",
-        "url": "https://scryfall.com/@Garrer/decks/3ff5007f-8777-493a-9975-171bba913966",
-        "color": "GW"
-      },
-      {
         "name": "Spinnen (Brani)",
         "url": "https://scryfall.com/@Garrer/decks/d7dc1f60-c37d-4059-bd79-8362019be9b8"
       },
@@ -104,10 +99,6 @@
       {
         "name": "Wald Wald",
         "url": "https://scryfall.com/@Garrer/decks/54865d31-2c7c-4040-9415-98cd71b05dd3"
-      },
-      {
-        "name": "Worms Trample (Fusy)",
-        "url": "https://scryfall.com/@Garrer/decks/a38b9a2b-4231-4cdd-8218-ccd24017094b"
       },
       {
         "name": "Bear",
@@ -300,10 +291,6 @@
         "name": "Kleriker",
         "url": "https://scryfall.com/@Garrer/decks/1edba29e-b008-4d9a-a9d2-9da6db17dc87",
         "color": "WB"
-      },
-      {
-        "name": "Engel (Fusy)",
-        "url": "https://scryfall.com/@Garrer/decks/498e4a2c-ccac-4325-abc1-347f485463eb"
       },
       {
         "name": "Mishras",
