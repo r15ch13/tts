@@ -35,6 +35,8 @@ SCRYFALL_NAME_BASE_URL = "https://api.scryfall.com/cards/named/?exact="
 DECK_SOURCE_URL = "url"
 DECK_SOURCE_NOTEBOOK = "notebook"
 
+USER_AGENT = "Tabletop Simulator/1.0 MTG-Deckloader/1.0"
+
 MAINDECK_POSITION_OFFSET = {0.0, 1, 0.1286}
 DOUBLEFACE_POSITION_OFFSET = {1.47, 1, 0.1286}
 SIDEBOARD_POSITION_OFFSET = {-1.47, 1, 0.1286}
@@ -720,7 +722,13 @@ local function queryCard(cardID, forceNameQuery, forceSetNumLangQuery, onSuccess
         query_url = SCRYFALL_NAME_BASE_URL .. cardID.name
     end
 
-    webRequest = WebRequest.get(query_url, function(webReturn)
+    local headers = {
+        ["Content-Type"] = "application/json",
+        Accept = "application/json",
+        ["User-Agent"] = USER_AGENT,
+    }
+    local body = JSON.encode({})
+    webRequest = WebRequest.custom(query_url, "GET", true, body, headers, function(webReturn)
 
         if webReturn.is_error or webReturn.error then
             onError(query_url.."\nWeb request error: " .. webReturn.error or "unknown")
@@ -1622,8 +1630,14 @@ local function queryDeckScryfall(deckID, onSuccess, onError)
     local url = 'https://api.scryfall.com/decks/' .. deckID .. '/export/json'
 
     printInfo("Fetching decklist from scryfall...")
+    local headers = {
+        ["Content-Type"] = "application/json",
+        Accept = "application/json",
+        ["User-Agent"] = USER_AGENT,
+    }
+    local body = JSON.encode({})
 
-    WebRequest.get(url, function(webReturn)
+    WebRequest.custom(url, "GET", true, body, headers, function(webReturn)
         if webReturn.error then
             if string.match(webReturn.error, "(404)") then
                 onError("Deck not found. Is it public?")
